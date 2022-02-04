@@ -7,3 +7,4 @@ The above text is an idea that I am going to work on here. Things like:
 * Validation of this idea
 * Test different algorithms
 * Optimization of parameters and ...
+
