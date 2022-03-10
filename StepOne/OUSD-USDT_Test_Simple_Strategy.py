@@ -21,4 +21,11 @@ buy_limit_1 = np.average(close) - np.std(close)
 sell_limit_2 = np.average(close) + 2*np.std(close)
 buy_limit_2 = np.average(close) -  2*np.std(close)
 
+print("sell limit 1 :", sell_limit_1)
+print("sell limit 2 :", sell_limit_2)
+print("buy limit 1 :", buy_limit_1)
+print("buy limit 2 :", buy_limit_2)
+
+
+
 
